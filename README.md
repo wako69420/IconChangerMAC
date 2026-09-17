@@ -17,7 +17,7 @@
 <br/>
 
 > [!NOTE]
-> **This project is archived and was a learning project.**
+> **This was built as a learning project.**
 > I have given up on macOS's cache systems.
 > I made this as there were no Apple-signed open source projects that didn't give a "move to trash" popup - trust issues.
 > 

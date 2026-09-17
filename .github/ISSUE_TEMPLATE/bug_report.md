@@ -1,13 +1,13 @@
 ---
 name: Bug report
-about: Found a bug? Let me know (though I might not fix it)
+about: Found a bug? Let me know!
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Note: Hey! This is a solo passion project that is now archived. I'm not actively fixing bugs anymore, but feel free to log it here in case someone else wants to investigate!**
+**Note: Hey! This is a solo passion project.**
 
 **What broke?**
 Tell me what went wrong.
