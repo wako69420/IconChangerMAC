@@ -1,27 +1,14 @@
-# Contributing to Icon Changer
+# Contributing
 
-First off, thank you for considering contributing to Icon Changer! 
-**Note:** As stated in the README, this project is currently **archived** and was primarily a learning project. Active development and maintenance have ceased.
+Hey there! Thanks for checking out the project. 
 
-However, if you wish to fork this repository or if development resumes in the future, please follow these guidelines.
+Just a quick heads-up: I built Icon Changer mostly as a solo learning project to figure out macOS APIs, and I've officially archived it because dealing with macOS's aggressive cache systems finally wore me out. I'm not actively maintaining it anymore.
 
-## Pull Requests
+That said, if you want to fork the code, fix something that bugs you, or use it as a learning resource yourself, feel free!
 
-1. **Fork the Repository:** Create your own fork and branch off `main`.
-2. **Code Quality:** Ensure your code is clean, readable, and follows standard Swift conventions.
-3. **Testing:** Test your changes locally. Icon Changer interacts with native macOS APIs (like `NSWorkspace`), so ensure your changes do not cause unintended side effects (e.g., crashing Finder, sandbox violations).
-4. **Descriptive PRs:** Provide a clear and detailed explanation of what your Pull Request does, why it's necessary, and any trade-offs you made.
-5. **No Malicious Code:** Any code that attempts to bypass macOS security maliciously or harms the user's system will be immediately rejected.
+If you do decide to submit a Pull Request, here are a few informal requests:
+1. **Explain the fix:** Just give me a quick rundown of what broke and how you fixed it. 
+2. **Stick to Apple APIs:** Try to use native Swift/macOS APIs (like `NSWorkspace`) instead of hacking together shell scripts if you can help it.
+3. **Don't be evil:** Obviously, don't submit code that intentionally tries to break macOS security or harm anyone's system.
 
-## Issues
-
-Since the project is archived, we may not actively monitor or respond to new issues. If you do open an issue, please ensure:
-- You have searched existing issues to avoid duplicates.
-- You provide a clear description of the bug or feature request.
-- You include steps to reproduce (for bugs).
-- You specify your macOS version.
-
-## Code Quality
-
-- Avoid adding hacky shell scripts (`osascript`, `killall`) unless absolutely necessary. We prefer using native Apple APIs (`NSWorkspace`, `FileManager`) whenever possible.
-- Keep the UI native-feeling using standard SwiftUI components.
+Because the project is archived, I probably won't be reviewing PRs or merging them, but having the fixes visible for others who stumble on the repo is always appreciated!

@@ -1,19 +1,16 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Got an idea? Drop it here.
 title: ''
 labels: enhancement
 assignees: ''
 
 ---
 
-**Note: This project is archived. Responses are not guaranteed.**
+**Note: Hey! This is a solo passion project that is now archived. I'm not actively adding features anymore, but feel free to log your idea here in case someone forks the repo!**
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**The Idea**
+What do you wish the app did? 
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
-
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Why do we need it?**
+Explain the problem it solves. 

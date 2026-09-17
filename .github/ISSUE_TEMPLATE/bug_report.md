@@ -1,30 +1,22 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Found a bug? Let me know (though I might not fix it)
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Note: This project is archived. Responses are not guaranteed.**
+**Note: Hey! This is a solo passion project that is now archived. I'm not actively fixing bugs anymore, but feel free to log it here in case someone else wants to investigate!**
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**What broke?**
+Tell me what went wrong.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**How do I break it?**
+1. Do this
+2. Click that
+3. Boom, error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. macOS Sonoma 14.2]
- - Version [e.g. 1.3.3]
-
-**Additional context**
-Add any other context about the problem here.
+**Mac Details:**
+ - macOS Version: [e.g. Sonoma 14.2]
+ - App Version: [e.g. 1.3.3]

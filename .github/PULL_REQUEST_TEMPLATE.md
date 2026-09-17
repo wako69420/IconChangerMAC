@@ -1,14 +1,7 @@
-## Description
-<!-- Please include a summary of the changes and the related issue. -->
-<!-- Note: This project is currently archived. -->
+## What changed?
+<!-- Just give a quick explanation of what you tweaked or fixed! -->
+<!-- Note: I'm not actively maintaining this project anymore, but thanks for the contribution! -->
 
-## Type of Change
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
-## Quality Checklist
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] My changes generate no new warnings
+## Checklist
+- [ ] I tested this on my own Mac and it didn't break anything.
+- [ ] The code is decently readable.
