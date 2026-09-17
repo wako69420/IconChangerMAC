@@ -1,6 +1,6 @@
 # Contributing
 
-If you want to fork the code, fix something that bugs you, or use it as a learning resource yourself, feel free!
+If you want to fork the code, fix something that bugs you, or use it as a learning resource yourself
 
 If you do decide to submit a Pull Request, here are a few informal requests:
 1. **Explain the fix:** Just give me a quick rundown of what broke and how you fixed it. 
